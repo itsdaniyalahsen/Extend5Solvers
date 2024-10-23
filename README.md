@@ -1,4 +1,4 @@
-# Extend5Solvers
+# FOAM-EXTEND 5.0 Solvers
 Set of Open Source PDE Solvers written for FOAM-Extend 5.0 CFD Code
 
 Segregated solvers include Acoustic an Acoustic Solver, An Acoustic Solver with Damping and a solver for Maxwell's Equations of Electrodynamics.
